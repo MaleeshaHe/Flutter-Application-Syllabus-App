@@ -1,4 +1,4 @@
-# myapp
+# Syllabus App
 
 A new Flutter project.
 
